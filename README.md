@@ -25,7 +25,8 @@
   </details>  
 <details>
  <summary>Produto desenvolvido</summary>
-![0417](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/116762736/f958e362-5201-4c48-b692-ac1b796823c6)
+ 
+![produto](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/116762736/f958e362-5201-4c48-b692-ac1b796823c6)
  
  </details>
 
