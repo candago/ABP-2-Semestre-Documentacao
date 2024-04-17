@@ -14,8 +14,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
-<span id ="sobre">
-
 ## Sobre a ABP
 
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
