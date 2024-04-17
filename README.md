@@ -30,7 +30,9 @@
 
  <details>
  <summary>Burndown</summary>
- <!--AQUI ENTRA O BURNDOWN-->
+  
+ ![burndown](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/93159431/29a1a9c2-a418-4d9b-816a-f70c289f22ed)
+ 
  </details>
 
   # Apresentação
