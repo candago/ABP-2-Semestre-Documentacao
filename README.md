@@ -15,12 +15,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
 
-## Sobre o projeto
+## Sobre a ABP
 
->Nosso projeto tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
->um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada e
+>Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
+>um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
+<div>
+> * Carregar seus projetos
+> * Cadastrar novos funcionários
+> * Gerar dados estatísticos
+> * Filtrar projetos
+> * Acessar informações de projetos
+> * Exportar informações em PDF
 
 <span id ="tecnologias">
+
+
 
 ## Tecnologias
 
@@ -45,10 +54,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
 ---	|	---	|	---	|	---
-LUCAS JACQUES	|	lucas.souza284@fatec.sp.gov.br	|	[jaqueslucas![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/jaqueslucas)|	Product Owner
-CARLOS TORRES	|	carlos.santos193@fatec.sp.gov.br	|	[CarlosTorres2305![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/CarlosTorres2305)| Scrum Master
-CAIQUE MOURA	|	caique.moura@fatec.sp.gov.br	|	[caiquefrd![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/caiquefrd)	|	Dev Team
-RAFAEL SOARES	|	rafael.moraes21@fatec.so.gov.br	|	[RafaelSM21![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/RafaelSM21)	|	Dev Team
-LUCAS ASSIS	|	lucas.assis15@fatec.sp.gov.br	|	[Lucassis1![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lucassis1)	|	Dev Team
-GUILHERME CARDOSO	|	guilherme.cardoso12@fatec.sp.gov.br	|	[GuilhermeCardoso0![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/GuilhermeCardoso0)	|	Dev Team
-LUIS PEREIRA|	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/l-gustavo-barbosa)	|	Dev Team
+Lucas Jacques	|	lucas.souza284@fatec.sp.gov.br	|	[jaqueslucas![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/jaqueslucas)|	Product Owner
+Carlos Torres	|	carlos.santos193@fatec.sp.gov.br	|	[CarlosTorres2305![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/CarlosTorres2305)| Scrum Master
+Caique Moura	|	caique.moura@fatec.sp.gov.br	|	[caiquefrd![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/caiquefrd)	|	Dev Team
+Rafael Soares	|	rafael.moraes21@fatec.so.gov.br	|	[RafaelSM21![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/RafaelSM21)	|	Dev Team
+Lucas Assis	|	lucas.assis15@fatec.sp.gov.br	|	[Lucassis1![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lucassis1)	|	Dev Team
+Guilherme Cardoso	|	guilherme.cardoso12@fatec.sp.gov.br	|	[GuilhermeCardoso0![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/GuilhermeCardoso0)	|	Dev Team
+Luis Pereira |	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/l-gustavo-barbosa)	|	Dev Team
