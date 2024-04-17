@@ -53,6 +53,8 @@ As seguintes tecnologias foram utilizadas:
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
 
+<div>
+
 [Voltar ao topo](#topo)
     
 
@@ -69,5 +71,7 @@ Rafael Soares	|	rafael.moraes21@fatec.so.gov.br	|	[RafaelSM21![github (1)](https
 Lucas Assis	|	lucas.assis15@fatec.sp.gov.br	|	[Lucassis1![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lucassis1)	|	Dev Team
 Guilherme Cardoso	|	guilherme.cardoso12@fatec.sp.gov.br	|	[GuilhermeCardoso0![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/GuilhermeCardoso0)	|	Dev Team
 Luis Pereira |	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/l-gustavo-barbosa)	|	Dev Team
+
+<div>
 
 [Voltar ao topo](#topo)
