@@ -14,13 +14,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
-<div>
 
 ## Sobre a ABP
 
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
-<div>
 
 > * Carregar seus projetos
 > * Cadastrar novos funcionários
@@ -29,16 +27,11 @@
 > * Acessar informações de projetos
 > * Exportar informações em PDF
 
-<div>
-
 <div align="center">
     
 ![ABP Backlog](https://cdn.discordapp.com/attachments/1221992152113090733/1229940633616253040/API_DSM_2_Semestre.png?ex=6631827a&is=661f0d7a&hm=a669c29db0d2e47799c40d619be33d927bb1606eb996b80829089f6dfedd0b75&)
 
-
-
-
-</div>
+<div>
 
 <span id ="tecnologias">
 
