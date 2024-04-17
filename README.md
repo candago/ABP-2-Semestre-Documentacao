@@ -21,12 +21,12 @@
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
 
-> * Carregar seus projetos
-> * Cadastrar novos funcionários
-> * Gerar dados estatísticos
-> * Filtrar projetos
-> * Acessar informações de projetos
-> * Exportar informações em PDF
+> * Carregar seus projetos;
+> * Cadastrar novos funcionários;
+> * Gerar dados estatísticos;
+> * Filtrar projetos;
+> * Acessar informações de projetos;
+> * Exportar informações em PDF.
 
 <span id="backlog">
 
@@ -38,6 +38,7 @@
 
 <span id="tecnologias">
 
+<div> 
 
 ## Tecnologias
 
@@ -55,11 +56,9 @@ As seguintes tecnologias foram utilizadas:
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
 
+</div>
 
-[Voltar ao topo](#topo)
-    
 <span id="time_candago">
-
 
 ## Equipe ABP Fatec Jacareí
 
