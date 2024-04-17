@@ -6,7 +6,7 @@
 <h1>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
+    <a href="#backlogs">Backlog</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#time_candago">Time Candago</a>
 </p>
@@ -17,6 +17,7 @@
 
 ## Sobre a ABP
 
+<span id="sobre">
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
 <div>
@@ -29,8 +30,6 @@
 > * Exportar informações em PDF
 
 <span id ="tecnologias">
-
-
 
 ## Tecnologias
 
