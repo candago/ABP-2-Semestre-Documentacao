@@ -15,7 +15,7 @@
 </p>
 <h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+
 
 </div>
 
@@ -97,3 +97,6 @@ Luis Pereira |	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](
 
 
 [Voltar ao topo](#topo)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
