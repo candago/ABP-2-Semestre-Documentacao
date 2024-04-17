@@ -6,7 +6,7 @@
 <h1>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlog</a>  |  
+    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#time_candago">Time Candago</a>
 </p>
@@ -14,10 +14,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
-<span id="sobre">
 
 ## Sobre a ABP
-
 
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
@@ -31,6 +29,8 @@
 > * Exportar informações em PDF
 
 <span id ="tecnologias">
+
+
 
 ## Tecnologias
 
