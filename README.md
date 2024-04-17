@@ -14,10 +14,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
+<span id="sobre">
 
 ## Sobre a ABP
 
-<span id="sobre">
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
 <div>
@@ -28,6 +28,13 @@
 > * Filtrar projetos
 > * Acessar informações de projetos
 > * Exportar informações em PDF
+
+## Sprints
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 27/09/2023 | Em andamento      | [Ver Sprint]() |
+| 02 | 25/10/2023 | Não iniciada    |  |
+| 03 | 22/11/2023 | Não iniciada      |  |
 
 <span id ="tecnologias">
 
