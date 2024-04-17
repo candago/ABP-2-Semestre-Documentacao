@@ -24,6 +24,8 @@
 <div>
 
 ## Sobre a ABP
+>A ABP ou "Aprendizagem baseada em processos" é uma atividade central do curso de Desenvolvimento de Software Multiplataforma, 
+>onde trabalhamos na prática para entregar soluções de software para clientes reais.
 
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
 >um ambiente facil de entender e interativo para que a gestão de projetos possa ser dinamizada, em nossa plataforma os usuários poderão:
@@ -69,7 +71,7 @@ As seguintes tecnologias foram utilizadas:
 
 <span id="time_candago">
 
-## Equipe ABP Fatec Jacareí
+## Equipe ABP Candago Fatec Jacareí
 
 NOME	|	EMAIL	|	GITHUB	|	CARGO
 ---	|	---	|	---	|	---
