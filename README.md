@@ -39,6 +39,18 @@
 
 </div>
 
+<div>
+
+## Entregas de Sprints
+
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 17/04/2024 | Em andamento       | [Ver Relatório]() |
+| 02 | 15/05/2023 | Não iniciada     | [Ver Relatório]() |
+| 03 | 12/06/2023 | Não iniciada      | [Ver Relatório]()|
+
+</div>
+
 <span id="backlog">
 
 <div align="center">
