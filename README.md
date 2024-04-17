@@ -55,7 +55,8 @@
 
 <div align="center">
     
-![ABP Backlog](https://cdn.discordapp.com/attachments/1221992152113090733/1229940633616253040/API_DSM_2_Semestre.png?ex=6631827a&is=661f0d7a&hm=a669c29db0d2e47799c40d619be33d927bb1606eb996b80829089f6dfedd0b75&)
+![API DSM 2 Semestre (3)](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/93159431/fb84fc3c-52f3-470a-a7c1-14dd45ff0223)
+
 
 </div>
 
