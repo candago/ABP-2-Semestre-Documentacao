@@ -5,7 +5,7 @@
 <span id="topo">
 <h1>
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
+    <a href="#Projeto">Sobre</a>  |  
     <a href="#backlog">Backlog</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#time_candago">Time Candago</a>
@@ -14,7 +14,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 
-<span id="sobre">
+<span id="Projeto">
 
 ## Sobre a ABP
 
