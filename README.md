@@ -6,7 +6,7 @@
 <h1>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
+    <a href="#backlog">Backlog</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#time_candago">Time Candago</a>
 </p>
@@ -27,13 +27,15 @@
 > * Acessar informações de projetos
 > * Exportar informações em PDF
 
+<span id="backlog>
+
 <div align="center">
     
 ![ABP Backlog](https://cdn.discordapp.com/attachments/1221992152113090733/1229940633616253040/API_DSM_2_Semestre.png?ex=6631827a&is=661f0d7a&hm=a669c29db0d2e47799c40d619be33d927bb1606eb996b80829089f6dfedd0b75&)
 
 <div>
 
-<span id ="tecnologias">
+<span id="tecnologias">
 
 ## Tecnologias
 
@@ -52,7 +54,7 @@ As seguintes tecnologias foram utilizadas:
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
     
 
-<span id ="time_candago">
+<span id="time_candago">
 
 ## Equipe ABP Fatec Jacareí
 
