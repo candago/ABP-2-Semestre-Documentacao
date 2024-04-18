@@ -98,5 +98,9 @@ Luis Pereira |	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](
 
 [Voltar ao topo](#topo)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ABP-2-Semestre-Documentacao}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
