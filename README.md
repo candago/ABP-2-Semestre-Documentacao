@@ -45,9 +45,9 @@
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 17/04/2024 | Em andamento       | [Ver Relatório](https://github.com/candago/ABP-2-Semestre-Documentacao/tree/sprint-1) |
-| 02 | 15/05/2023 | Não iniciada     | [Ver Relatório]() |
-| 03 | 12/06/2023 | Não iniciada      | [Ver Relatório]()|
+| 01 | 17/04/2024 | ✔️ Concluída       | [Ver Relatório](https://github.com/candago/ABP-2-Semestre-Documentacao/tree/sprint-1) |
+| 02 | 15/05/2023 | Em Andamento    | Em Andamento |
+| 03 | 12/06/2023 | Em Andamento       | Em Andamento |
 
 </div>
 
