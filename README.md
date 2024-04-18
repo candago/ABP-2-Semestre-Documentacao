@@ -72,7 +72,6 @@ As seguintes tecnologias foram utilizadas:
 <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
 <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
-<img src="https://img.shields.io/badge/TypeORM-CED4DA?style=for-the-badge&logo" alt="TypeORM" /> 
 <img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
 <img src="https://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
