@@ -24,7 +24,7 @@
 <div>
 
 ## Sobre a ABP
->A ABP ou "Aprendizagem baseada em processos" é uma atividade central do curso de Desenvolvimento de Software Multiplataforma, 
+>A ABP ou "Aprendizagem baseada em projetos" é uma atividade central do curso de Desenvolvimento de Software Multiplataforma, 
 >onde trabalhamos na prática para entregar soluções de software para clientes reais.
 
 >Nossa interface tem o objetivo de auxiliar a gestão de projetos baseados em sistemas de geotecnologia e geoprocessamento, criando
