@@ -21,11 +21,15 @@
 
 <details>
  <summary>Planning Poker</summary>
- >planing poker<
+
+ <img width="883" alt="planningpoker2" src="https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/f1aa5322-8f63-4c29-b404-2a3cb053c84a">
+
+ <img width="281" alt="planningpoker1" src="https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/593ac6ac-9842-4072-99fd-e64502c4622a">
   
  <summary>Burndown</summary>
   
- >img burndown<
+ <img width="776" alt="burndown" src="https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/7100b589-9382-4a77-9b04-aa41afb32aca">
+
 
  <a href="https://trello.com/b/hUS5PFH8/kanban-candago">Acesso ao Trello</a>
  
