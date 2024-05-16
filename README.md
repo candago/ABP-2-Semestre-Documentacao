@@ -35,7 +35,7 @@
  </details>
 
   # Apresentação
-  <a href="[link video](https://youtu.be/JZ42hIbQsS8)">Vídeo de Apresentação
+  <a href="https://youtu.be/JZ42hIbQsS8">Vídeo de Apresentação
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
