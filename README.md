@@ -30,12 +30,12 @@
  <img width="776" alt="burndown" src="https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/7100b589-9382-4a77-9b04-aa41afb32aca">
 
 
- <a href="linkvideo">Acesso ao Trello</a>
+ <a href="linktrello">Acesso ao Trello</a>
  
  </details>
 
   # Apresentação
-  <a href="linkytbjacao">Vídeo de Apresentação
+  <a href="[(https://youtu.be/JZ42hIbQsS8)]">Vídeo de Apresentação
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
