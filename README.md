@@ -5,12 +5,11 @@
 # ABP-2024_2°-Sprint
 <details>
  <summary>Trabalhos desenvolvidos</summary>
- <summary>Modelagem de dados</summary>
- >diagrama bd<
  
  <summary>Testes de Queries banco de dados</summary>
- >print queries<
-    
+ 
+ ![queries](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/f41046bf-0fda-46eb-85ba-0c467566c0f5)
+   
 </details>  
 <details>
  <summary>Produto desenvolvido</summary>
@@ -31,7 +30,7 @@
  <img width="776" alt="burndown" src="https://github.com/candago/ABP-2-Semestre-Documentacao/assets/141785638/7100b589-9382-4a77-9b04-aa41afb32aca">
 
 
- <a href="https://trello.com/b/hUS5PFH8/kanban-candago">Acesso ao Trello</a>
+ <a href="linkvideo">Acesso ao Trello</a>
  
  </details>
 
