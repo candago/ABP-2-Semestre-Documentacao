@@ -23,6 +23,13 @@
 
 ***
 
+  <summary>Diagrama de casos de uso</summary>
+  
+
+![casos de Uso (2)](https://github.com/candago/ABP-2-Semestre-Documentacao/assets/93159431/611ce30f-8588-4b48-8e75-de9f2ccc5b4d)
+
+
+  
   <summary>Diagramas de sequência</summary>
  
 
